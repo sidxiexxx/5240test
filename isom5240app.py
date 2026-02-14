@@ -1,6 +1,3 @@
-pip install transformers
-pip install streamlit
-
 st.write("ISOM5240")
 
 import streamlit as st
